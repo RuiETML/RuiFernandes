@@ -1,0 +1,1 @@
+CREATE DATABASE db_space_invaders;
